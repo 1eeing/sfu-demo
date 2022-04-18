@@ -1,0 +1,26 @@
+{
+  "name": "sfu-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1eeing/sfu-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1eeing/sfu-demo/issues"
+  },
+  "homepage": "https://github.com/1eeing/sfu-demo#readme",
+  "dependencies": {
+    "medooze-media-server": "^0",
+    "semantic-sdp": "^3",
+    "transaction-manager": "^2",
+    "debug": "^3.1.0",
+    "websocket": "^1.0.24"
+  }
+}
